@@ -1,0 +1,1 @@
+"Stock Market Analysis Project" using MongoDB and Spark. Built a system for quick analysis of stock data, making it easier to make informed financial decisions. Improved data storage and retrieval for efficient real-time insights.
